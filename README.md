@@ -6,4 +6,4 @@ To build insightful data visualization with interactive features on Earthquakes 
 Basil and Sadhana like how you created your earthquake map with two different maps and the earthquake overlay. Now, Basil and Sadhana would like to see the earthquake data in relation to the tectonic plates’ location on the earth, and they would like to see all the earthquakes with a magnitude greater than 4.5 on the map, and they would like to see the data on a third map.
 
 Below are the website looks like: 
-![screen_shot]()
+![screen_shot](https://github.com/hayden0098/Mapping_Earthquakes/blob/main/resources/data-13-three-map-style-options.png)
